@@ -30,3 +30,12 @@ Minimum requirements:
 
 Bonus Points if you can push you code to github in our personal repository.
 Points will be deducted if chatgpt or similar chatbots was used to solve the problem set, based on verbal review of code.
+
+### Compile
+```
+g++ -o ./build StudentRecord.cpp
+```
+### Execute
+```
+./build
+```
