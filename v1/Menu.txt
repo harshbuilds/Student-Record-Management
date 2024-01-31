@@ -1,0 +1,11 @@
+______________________________________________
+
+Student Record Manager
+
+[1] Add a new Student Record
+[2] Update an existing Student Record
+[3] Display all student records
+[4] Save data
+[0] Exit
+
+>> 
